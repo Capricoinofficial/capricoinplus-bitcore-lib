@@ -35,14 +35,14 @@ To get started, just `npm install bitcore` or `bower install bitcore`.
 
 Some functionality is implemented as a module that can be installed separately:
 
-* [Payment Protocol Support](https://github.com/bitpay/bitcore-payment-protocol)
+* [Payment Protocol Support](https://github.com/Capricoinofficial/bitcore-payment-protocol)
 * [Peer to Peer Networking](https://github.com/bitpay/bitcore-p2p)
-* [Bitcoin Core JSON-RPC](https://github.com/particl/particl-bitcoind-rpc)
+* [Bitcoin Core JSON-RPC](https://github.com/Capricoinofficial/capricoinplus-bitcoind-rpc)
 * [Payment Channels](https://github.com/bitpay/bitcore-channel)
-* [Mnemonics](https://github.com/bitpay/bitcore-mnemonic)
+* [Mnemonics](https://github.com/Capricoinofficial/bitcore-mnemonic)
 * [Elliptical Curve Integrated Encryption Scheme](https://github.com/bitpay/bitcore-ecies)
 * [Blockchain Explorers](https://github.com/bitpay/bitcore-explorers)
-* [Signed Messages](https://github.com/particl/particl-bitcore-message)
+* [Signed Messages](https://github.com/Capricoinofficial/capricoinplus-bitcore-message)
 
 # Examples
 

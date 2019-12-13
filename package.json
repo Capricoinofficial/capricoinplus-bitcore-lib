@@ -1,8 +1,8 @@
 {
-  "name": "particl-bitcore-lib",
+  "name": "capricoinplus-bitcore-lib",
   "version": "0.16.0",
   "description": "A pure and powerful JavaScript Particl library.",
-  "author": "Particl <hello@particl.io>",
+  "author": "Capricoin+ <Capricoin.developer@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "particl",
+    "CapricoinPlus",
     "transaction",
     "address",
     "p2p",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/particl/particl-bitcore-lib.git"
+    "url": "https://github.com/Capricoinofficial/particl-bitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -40,7 +40,7 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.11"
+    "lodash": "=3.10.1"
   },
   "devDependencies": {
     "bitcore-build": "https://github.com/bitpay/bitcore-build.git#1023e8a99cd42b9241ccafe8e34c52f308c10284",
